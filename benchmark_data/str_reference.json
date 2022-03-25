@@ -1,0 +1,195 @@
+[
+    {
+        "offtargets": null,
+        "locus": "AFF2",
+        "motif": "GCC",
+        "chromosome": "chrX",
+        "start": "147582151",
+        "end": "147582211",
+        "disease": ""
+    },
+    {
+        "offtargets": null,
+        "locus": "AR",
+        "motif": "GCA",
+        "chromosome": "chrX",
+        "start": "66765158",
+        "end": "66765227"
+    },
+    {
+        "offtargets": null,
+        "locus": "ATN1",
+        "motif": "CAG",
+        "chromosome": "chr12",
+        "start": "7045879",
+        "end": "7045936"
+    },
+    {
+        "offtargets": null,
+        "locus": "ATXN1",
+        "motif": "TGC",
+        "chromosome": "chr6",
+        "start": "16327864",
+        "end": "16327954"
+    },
+    {
+        "offtargets": null,
+        "locus": "ATXN10",
+        "motif": "ATTCT",
+        "chromosome": "chr22",
+        "start": "46191234",
+        "end": "46191304"
+    },
+    {
+        "offtargets": null,
+        "locus": "ATXN2",
+        "motif": "GCT",
+        "chromosome": "chr12",
+        "start": "112036753",
+        "end": "112036822"
+    },
+    {
+        "offtargets": null,
+        "locus": "ATXN3",
+        "motif": "GCT",
+        "chromosome": "chr14",
+        "start": "92537353",
+        "end": "92537386"
+    },
+    {
+        "offtargets": "chr1:150552238-150552273,chr11:910821-910969,chr11:2905960-2906190,chr11:44748502-44748739,chr12:54476278-54476439,chr12:128751638-128751649,chr13:107569867-107570000,chr16:819162-819226,chr16:49526377-49526380,chr18:74203223-74203243,chr19:878803-878954,chr19:39897404-39897410,chr2:240659782-240660010,chr20:388475-388656,chr20:60640211-60640346,chr22:51066608-51066626,chr3:49591993-49592173,chr3:50161662-50161732,chr5:10761494-10761495,chr5:176797951-176798133,chr6:33601522-33601525,chr6:109804703-109804748,chr9:132331488-132331496,chr9:132428311-132428437,chrX:9754276-9754424,chrX:49644488-49644585,chrX:53652706-53652891,chrX:153569931-153569996,chrX:153618748-153618918",
+        "locus": "C9ORF72",
+        "motif": "GGCCCC",
+        "chromosome": "chr9",
+        "start": "27573526",
+        "end": "27573544"
+    },
+    {
+        "offtargets": null,
+        "locus": "CACNA1A",
+        "motif": "CTG",
+        "chromosome": "chr19",
+        "start": "13318672",
+        "end": "13318711"
+    },
+    {
+        "offtargets": null,
+        "locus": "CBL",
+        "motif": "CGG",
+        "chromosome": "chr11",
+        "start": "119076999",
+        "end": "119077032"
+    },
+    {
+        "offtargets": null,
+        "locus": "CSTB",
+        "motif": "CGCGGGGCGGGG",
+        "chromosome": "chr21",
+        "start": "45196324",
+        "end": "45196360"
+    },
+    {
+        "offtargets": null,
+        "locus": "DIP2B",
+        "motif": "GGC",
+        "chromosome": "chr12",
+        "start": "50898784",
+        "end": "50898805"
+    },
+    {
+        "offtargets": null,
+        "locus": "DMPK",
+        "motif": "CAG",
+        "chromosome": "chr19",
+        "start": "46273462",
+        "end": "46273522"
+    },
+    {
+        "offtargets": "chr10:101295192-101295194,chr12:7781290-7781350,chr12:125052154-125052156,chr16:25703613-25703635,chr16:28074516-28074518,chr17:30814024-30814026,chr17:64298467-64298469,chr19:2015524-2015526,chr2:87141540-87141618,chr2:92230909-92230911,chr2:211036020-211036032,chr2:225449878-225449880,chr20:30865500-30865516,chr5:443334-443364,chr7:20824939-20824941,chr7:100271437-100271439,chr7:104654597-104654599,chr7:143059853-143059855,chr9:100616695-100616697,chrX:20009036-20009046",
+        "locus": "FMR1",
+        "motif": "CGG",
+        "chromosome": "chrX",
+        "start": "146993568",
+        "end": "146993628"
+    },
+    {
+        "offtargets": null,
+        "locus": "GIPC1",
+        "motif": "CCG",
+        "chromosome": "chr19",
+        "start": "14606853",
+        "end": "14606886"
+    },
+    {
+        "offtargets": null,
+        "locus": "GLS",
+        "motif": "GCA",
+        "chromosome": "chr2",
+        "start": "191745598",
+        "end": "191745646"
+    },
+    {
+        "offtargets": null,
+        "locus": "JPH3",
+        "motif": "CTG",
+        "chromosome": "chr16",
+        "start": "87637893",
+        "end": "87637935"
+    },
+    {
+        "offtargets": null,
+        "locus": "NIPA1",
+        "motif": "CGC",
+        "chromosome": "chr15",
+        "start": "23086366",
+        "end": "23086390"
+    },
+    {
+        "offtargets": null,
+        "locus": "PABPN1",
+        "motif": "GCG",
+        "chromosome": "chr14",
+        "start": "23790681",
+        "end": "23790699"
+    },
+    {
+        "offtargets": null,
+        "locus": "PHOX2B",
+        "motif": "GCN",
+        "chromosome": "chr4",
+        "start": "41747989",
+        "end": "41748049"
+    },
+    {
+        "offtargets": null,
+        "locus": "PPP2R2B",
+        "motif": "GCT",
+        "chromosome": "chr5",
+        "start": "146258290",
+        "end": "146258320"
+    },
+    {
+        "offtargets": null,
+        "locus": "RFC1",
+        "motif": "AARRG",
+        "chromosome": "chr4",
+        "start": "39350044",
+        "end": "39350099"
+    },
+    {
+        "offtargets": null,
+        "locus": "TBP",
+        "motif": "GCA",
+        "chromosome": "chr6",
+        "start": "170870994",
+        "end": "170871105"
+    },
+    {
+        "offtargets": null,
+        "locus": "TCF4",
+        "motif": "CAG",
+        "chromosome": "chr18",
+        "start": "53253386",
+        "end": "53253458"
+    }
+]

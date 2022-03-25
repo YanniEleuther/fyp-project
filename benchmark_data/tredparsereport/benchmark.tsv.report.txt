@@ -1,0 +1,33 @@
+abbreviation	allele_freq	cutoff_prerisk	cutoff_risk	inheritance	motif	n_carrier	n_prerisk	n_risk	title
+DM1	{5:316,6:1,7:1,8:13,9:1,10:6,11:93,12:71,13:132,14:67,15:10,16:11,17:3,18:3,19:6,20:11,21:22,22:10,23:7,24:5,25:5,26:6,27:2,28:3,29:2,30:2,31:2,32:1,33:2,38:1,64:1}	35	50	AD	CTG	0	1	1	Myotonic dystrophy 1
+DM2	{6:1,7:3,8:6,12:3,14:13,15:592,16:140,17:22,18:18,19:11,20:3,22:2,55:1,72:1}	27	75	AD	CCTG	0	2	0	Myotonic dystrophy 2
+DRPLA	{8:103,9:3,10:92,11:3,12:11,13:7,14:37,15:314,16:145,17:63,18:8,19:8,20:9,21:4,22:6,23:2,24:1}	36	48	AD	CAG	0	0	0	Dentatorubro-pallidoluysian atrophy
+FXTAS	{3:1,4:1,9:1,15:1,16:4,17:1,19:1,20:49,21:1,22:4,23:51,24:8,25:9,26:3,27:2,28:4,29:72,30:186,31:50,32:52,33:16,34:8,35:7,36:4,37:4,38:3,39:7,40:4,41:4,42:2,44:1,47:1,52:2,54:1,57:2,58:1,60:1,69:1}	55	55	XLD	CGG	0	0	5	Fragile X-associated tremor/ataxia syndrome
+FXS	{3:1,4:1,9:1,15:1,16:4,17:1,19:1,20:49,21:1,22:4,23:51,24:8,25:9,26:3,27:2,28:4,29:72,30:186,31:50,32:52,33:16,34:8,35:7,36:4,37:4,38:3,39:7,40:4,41:4,42:2,44:1,47:1,52:2,54:1,57:2,58:1,60:1,69:1}	200	200	XLD	CGG	0	0	0	Fragile X syndrome
+FRAXE	{3:1,4:1,7:1,8:1,10:2,11:5,12:5,13:6,14:17,15:199,16:83,17:35,18:68,19:49,20:20,21:13,22:5,23:9,24:13,25:10,26:4,27:3,28:2,29:5,30:2,31:1,32:2,33:1,38:2,39:3,41:1,43:1}	26	200	XLR	GCC	0	13	0	Mental retardation, FRAXE type
+FRDA	{5:1,6:7,7:1,8:220,9:435,10:3,11:1,12:9,14:1,15:1,16:6,17:18,18:24,19:22,20:12,21:14,22:6,23:2,24:9,25:5,26:8,27:2,28:1,31:1,46:1,59:1,77:1,79:1,93:1,105:1,110:1}	23	66	AR	GAA	5	2	0	Friedreich ataxia
+HD	{9:2,10:8,12:10,13:2,14:5,15:55,16:37,17:269,18:120,19:92,20:51,21:29,22:33,23:24,24:25,25:13,26:10,27:7,28:4,29:8,30:4,31:2,32:1,33:1,34:1,35:1,36:1,41:1}	36	40	AD	CAG	0	1	1	Huntington disease
+HDL	{10:1,11:40,13:3,14:405,15:58,16:236,17:60,18:10,19:1,23:2}	29	40	AD	CTG	0	0	0	Huntington disease-like 2
+ULD	{2:253,3:557,4:2,6:2,16:2}	30	30	AR	CCCCGCCCCGCG	0	0	0	Epilepsy, progressive myoclonic 1A/Unverricht-Lundborg Disease
+OPMD	{8:1,10:813,11:2}	11	12	AD	GCN	0	2	0	Oculopharyngeal muscular dystrophy
+SBMA	{7:1,8:1,9:1,14:1,15:2,16:6,17:10,18:29,19:47,20:91,21:112,22:54,23:58,24:59,25:51,26:26,27:9,28:6,29:4,30:1,31:1}	36	36	XLR	CAG	0	0	0	Spinal and bulbar muscular atrophy of Kennedy
+SCA1	{11:2,13:1,26:1,27:3,28:62,29:275,30:284,31:57,32:70,33:19,34:11,35:10,36:13,37:3,38:1,41:2,42:2}	36	39	AD	CAG	0	17	2	Spinocerebellar ataxia 1
+SCA2	{9:1,11:1,13:1,15:1,16:1,21:1,22:711,23:74,24:4,25:2,27:12,29:1,31:3,32:2,33:1}	32	33	AD	CAG	0	2	1	Spinocerebellar ataxia 2
+SCA3	{8:174,9:2,11:1,12:7,14:66,15:62,16:12,17:249,18:43,19:1,20:15,21:122,22:37,23:9,24:10,29:2,30:1,31:1,32:1,34:1}	45	60	AD	CAG	0	0	0	Spinocerebellar ataxia 3
+SCA6	{4:6,7:69,8:1,11:269,12:150,13:288,14:30,15:2,16:1}	19	20	AD	CAG	0	0	0	Spinocerebellar ataxia 6
+SCA7	{7:9,8:2,9:1,10:655,11:27,12:85,13:29,14:7,15:1}	28	34	AD	CAG	0	0	0	Spinocerebellar ataxia 7
+SCA8	{6:2,9:116,10:10,11:2,12:203,13:18,14:36,15:181,16:140,17:60,18:7,19:9,20:13,21:11,22:1,24:3,26:2,27:1,57:1}	80	80	AD	CTG/CAG	0	0	0	Spinocerebellar ataxia 8
+SCA10	{10:1,11:22,12:106,13:204,14:253,15:100,16:58,17:34,18:16,19:8,20:7,21:5,22:2}	800	800	AD	ATTCT	0	0	0	Spinocerebellar ataxia 10
+SCA12	{9:21,10:518,11:14,13:95,14:57,15:96,16:6,17:2,18:4,20:3}	51	51	AD	CAG	0	0	0	Spinocerebellar ataxia 12
+SCA17	{19:1,27:2,28:1,29:3,30:13,32:15,33:2,34:4,35:54,36:147,37:168,38:330,39:63,40:9,41:2,42:1,43:1}	43	43	AD	CAG	0	0	1	Spinocerebellar ataxia 17
+SCA36	{4:313,5:4,6:7,7:389,8:23,9:71,10:4,11:4,13:1}	650	650	AD	GGCCTG	0	0	0	Spinocerebellar ataxia 36
+EIEE1	{10:567,11:2,13:1}	20	20	XLR	GCG	0	0	0	Epileptic encephalopathy, early infantile, 1
+BPES	{14:816}	19	19	AD	GCN	0	0	0	Blepharophimosis, epicanthus inversus, and ptosis
+CCD	{8:1,11:59,17:754,18:2}	27	27	AD	GCN	0	0	0	Cleidocranial dysplasia
+CCHS	{15:5,20:811}	24	24	AD	GCN	0	0	0	Central hypoventilation syndrome
+HFG	{14:815,16:1}	22	22	AD	GCN	0	0	0	Hand-foot-uterus syndrome
+HPE5	{11:1,15:814,16:1}	25	25	AD	GCN	0	0	0	Holoprosencephaly-5
+SD5	{12:4,15:812}	22	22	AD	GCN	0	0	0	Syndactyly
+XLMR	{9:2,15:566,16:2}	22	22	XLR	GCN	0	0	0	Mental retardation, X-linked, with isolated growth hormone deficiency
+AR	{7:1,8:1,9:1,14:1,15:2,16:6,17:10,18:29,19:47,20:91,21:112,22:54,23:58,24:59,25:51,26:26,27:9,28:6,29:4,30:1,31:1}	18	8	XLR	CAG	0	0	0	Susceptibility to prostate cancer due to Androgen Receptor expression
+ALS	{2:491,3:2,4:14,5:91,6:25,7:7,8:93,9:3,10:23,11:13,12:7,13:4,14:5,15:1,16:4,17:1,18:4,19:1,21:2,22:2,24:1,27:1,28:1,30:2,31:1,32:2,33:1,34:1,35:1,36:4,37:3,38:1,39:1,40:1,47:1,50:1}	31	31	AD	GGGGCC	0	0	18	Amyotrophic lateral sclerosis, or familial frontotemporal dementia

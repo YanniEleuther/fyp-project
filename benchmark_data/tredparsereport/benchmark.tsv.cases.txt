@@ -1,0 +1,57 @@
+[DM1] - Myotonic dystrophy 1
+rep=CAG inherit=AD cutoff=50 n_risk=1 n_carrier=0 loc=chr19:45770205-45770264
+         SampleKey inferredGender DM1.calls DM1.FR                          DM1.PR     DM1.RR  DM1.PP
+ LP6008115-DNA_H08           Male     13|64  13|12  ...|1;38|1;40|1;43|1;44|1;46|1  49|4;50|6     1.0
+
+[FXTAS] - Fragile X-associated tremor/ataxia syndrome
+rep=CGG inherit=XLD cutoff=55 n_risk=5 n_carrier=0 loc=chrX:147912051-147912110
+         SampleKey inferredGender FXTAS.calls FXTAS.FR                        FXTAS.PR   FXTAS.RR  FXTAS.PP
+ LP6008113-DNA_F08         Female       23|57     23|3  ...|1;16|1;18|1;19|3;20|2;29|2       49|2  0.632560
+ LP6008114-DNA_H08         Female       23|57     23|1  ...|2;24|2;30|1;31|1;33|2;39|1       50|2  0.773954
+ LP6008115-DNA_B01           Male        69|.           ...|1;34|1;37|1;40|1;41|1;46|1  49|3;50|5  0.999941
+ LP6008115-DNA_H09           Male        60|.           ...|1;22|2;29|1;30|1;34|1;35|1  49|2;50|2  0.957142
+ LP6008116-DNA_H06           Male        58|.           ...|1;23|1;28|2;33|1;38|3;39|1  49|1;50|2  0.907275
+
+[HD] - Huntington disease
+rep=CAG inherit=AD cutoff=40 n_risk=1 n_carrier=0 loc=chr4:3074877-3074933
+         SampleKey inferredGender HD.calls HD.FR                           HD.PR HD.RR  HD.PP
+ LP6008116-DNA_H10         Female    22|41  22|7  ...|1;28|2;34|1;35|1;38|1;41|1          1.0
+
+[SCA1] - Spinocerebellar ataxia 1
+rep=CTG inherit=AD cutoff=39 n_risk=2 n_carrier=0 loc=chr6:16327636-16327722
+         SampleKey inferredGender SCA1.calls SCA1.FR                         SCA1.PR SCA1.RR  SCA1.PP
+ LP6008113-DNA_G05           Male      41|41    41|3  ...|1;31|1;32|2;38|4;39|1;41|5              1.0
+ LP6008117-DNA_A03           Male      42|42          ...|2;31|3;32|6;33|1;39|1;42|2              1.0
+
+[SCA2] - Spinocerebellar ataxia 2
+rep=CTG inherit=AD cutoff=33 n_risk=1 n_carrier=0 loc=chr12:111598951-111599019
+         SampleKey inferredGender SCA2.calls    SCA2.FR                         SCA2.PR SCA2.RR  SCA2.PP
+ LP6008117-DNA_H01           Male      22|33  22|5;33|3  ...|2;22|1;25|1;28|1;29|1;33|3              1.0
+
+[SCA17] - Spinocerebellar ataxia 17
+rep=CAG inherit=AD cutoff=43 n_risk=1 n_carrier=0 loc=chr6:170561908-170562021
+         SampleKey inferredGender SCA17.calls   SCA17.FR                        SCA17.PR SCA17.RR  SCA17.PP
+ LP6008114-DNA_E06         Female       38|43  38|1;42|1  ...|2;38|2;39|1;40|1;42|2;43|2            0.97632
+
+[ALS] - Amyotrophic lateral sclerosis, or familial frontotemporal dementia
+rep=GGCCCC inherit=AD cutoff=31 n_risk=18 n_carrier=0 loc=chr9:27573529-27573546
+         SampleKey inferredGender ALS.calls   ALS.FR                          ALS.PR      ALS.RR    ALS.PP
+ LP6008113-DNA_A08         Female      2|32     2|13  ...;4|2;5|1;8|2;10|1;15|1;19|1        25|4  0.763193
+ LP6008113-DNA_D04           Male      2|37     2|16  ...|1;12|1;13|1;14|1;16|2;17|1   24|4;25|5  0.988725
+ LP6008113-DNA_D10           Male      5|36     5|15  ...;6|1;7|1;9|2;10|2;16|1;17|1   24|4;25|5  0.984924
+ LP6008113-DNA_G09           Male      8|36  7|1;8|4             2|1;4|1;6|2;8|3;9|1   24|4;25|3  0.976701
+ LP6008114-DNA_C09           Male     10|39     10|4  ...|5;11|1;12|1;13|3;17|1;20|1   24|3;25|6  0.995835
+ LP6008114-DNA_E08         Female      2|31     2|16  ...|1;10|2;17|1;18|1;21|1;22|1   24|1;25|6  0.669564
+ LP6008114-DNA_F08         Female     10|33     10|7  ...1;5|1;7|4;8|2;9|5;10|1;17|1   24|2;25|3  0.853766
+ LP6008114-DNA_F09         Female      2|37      2|7               2|5;4|1;10|1;12|1   24|4;25|3  0.982795
+ LP6008114-DNA_H06           Male      2|36      2|7  ...|1;11|1;12|1;13|1;14|2;16|2        25|8  0.981314
+ LP6008114-DNA_H08         Female      2|35     2|12                    2|5;4|4;16|1   24|2;25|4  0.943890
+ LP6008115-DNA_A02         Female      2|37     2|25  ...;6|2;7|1;9|1;10|1;19|1;20|1   24|2;25|6  0.984513
+ LP6008115-DNA_A05         Female     18|47     18|1  ...|2;12|2;13|1;14|3;16|2;18|3  24|3;25|12  0.999998
+ LP6008115-DNA_A08           Male     14|34     14|4  ...|3;12|1;13|2;14|2;17|1;20|1   24|3;25|2  0.904587
+ LP6008115-DNA_C03         Female      2|36      2|4  2|3;3|1;6|2;9|1;10|1;12|1;16|1   24|1;25|5  0.964988
+ LP6008115-DNA_D02           Male      2|50     2|26   2|3;4|1;7|3;8|2;9|4;10|1;14|1  24|4;25|11  1.000000
+ LP6008115-DNA_D05           Male      5|32      5|9  ...8|3;9|1;12|3;13|1;14|1;15|1   24|4;25|1  0.808164
+ LP6008115-DNA_G11           Male      8|38  4|1;8|5  ...2;5|1;7|4;8|6;9|1;12|1;16|1   24|3;25|6  0.992440
+ LP6008116-DNA_H01           Male     11|40     11|6  2|1;3|3;8|3;9|4;10|3;11|5;19|1   24|3;25|6  0.997029
+
