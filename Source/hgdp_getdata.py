@@ -3,11 +3,11 @@
 from os import listdir
 import json
 
-alsworkdir = 'c9orf72_exphunter/'
-fragilexdir = 'fmr1_exphunter/'
-nonraresdir = 'nonrarevariants_exphunter/'
-referencefile = "hgdp_references.tsv"
-catalogfile = "nonrare_catalog.json"
+alsworkdir = '.Temp/c9orf72_exphunter/'
+fragilexdir = '.Temp/fmr1_exphunter/'
+nonraresdir = '.Temp/nonrarevariants_exphunter/'
+referencefile = "Data/hgdp_references.tsv"
+catalogfile = ".Temp/Non-Rare.json"
 headerlist = [
     "sample_id",
     "locus",
@@ -59,7 +59,7 @@ for filename in listdir(fragilexdir):
         
         fmr1_dict[samplename] = tempdict.pop("LocusResults")
     
-with open("fmr1output.tsv", "w+") as fout:
+with open(".Temp/fmr1output.tsv", "w+") as fout:
     fout.write('\t'.join(headerlist))
     
     for sample_id in fmr1_dict:
@@ -87,7 +87,7 @@ for filename in listdir(alsworkdir):
 
         c9orf72_dict[samplename] = tempdict.pop("LocusResults")
     
-with open("c9orf72output.tsv", "w+") as fout:
+with open(".Temp/c9orf72output.tsv", "w+") as fout:
    fout.write('\t'.join(headerlist))
 
    for sample_id in c9orf72_dict:
@@ -104,7 +104,7 @@ with open("c9orf72output.tsv", "w+") as fout:
                '\n']
        fout.write('\t'.join(formatlist))
 
-with open("nonrares_output.tsv", "w+") as fout:
+with open(".Temp/Non-Rare.tsv", "w+") as fout:
    fout.write('\t'.join(headerlist))
 
    for sample_id in nonrares_dict.keys():
