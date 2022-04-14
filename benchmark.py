@@ -14,6 +14,10 @@ exphunter_dir = "benchmark_data/exphunterdict/"
 tredparsefile = "benchmark_data/tredparsereport/repeatcalls.tsv"
 outputfilename = "benchmark_data/benchmarkfile.json"
 
+# Get name of first sample for indexing later on from .env (not in the repo)
+# ALS patient data used for benchmarking cannot be shared.
+FIRSTSAMPLENAME = os.getenv('FIRSTSAMPLENAME')
+
 def getGenesforBenchmark(truth, catalog):
     with open(truth, 'r') as fin:
         startlist = fin.read().strip().split('\n')
@@ -58,7 +62,7 @@ def getGangstrData():
                 infoformats.append(line.strip())
             
     # Extract just the filenames
-    firstsample = vcfsamps.index('LP6008113-DNA_A01')
+    firstsample = vcfsamps.index(FIRSTSAMPLENAME)
     vcfsamps = vcfsamps[firstsample::]
     
     # Get only the chromosome and the start coordinates of every STR
@@ -110,7 +114,7 @@ def getHipstrData():
                 
     
     # Extract just the filenames 
-    firstsample = vcfsamps.index('LP6008113-DNA_A01')
+    firstsample = vcfsamps.index(FIRSTSAMPLENAME)
     vcfsamps = vcfsamps[firstsample::]
     
     # Get reference str json
