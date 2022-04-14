@@ -15,7 +15,7 @@ reads for the analyzed genomes are packaged into archives.
 **Extract Them With:**
 
 ```sh
-./Extract.sh
+Tools/Extract.sh
 ```
 
 <br>
@@ -23,5 +23,5 @@ reads for the analyzed genomes are packaged into archives.
 **Clean Them Up With:**
 
 ```sh
-./Clean.sh
+Tools/Clean.sh
 ```
