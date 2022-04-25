@@ -1,10 +1,27 @@
-# Fourth Year Capstone Project Data Handling Scripts
-Collection of data handling scripts used for a capstone research project.
 
+# Fourth Year Capstone Project 
 
-## HGDP RE analysis
-The JSON files containing the inferred repeat expansion reads for the analysed genomes are archived.
-To extract them:
-~~~
-tar -xvzf c9orf72_exphunter.tar.gz fmr1_exphunter.tar.gz nonrarevariants_exphunter.tar.gz
-~~~
+***Data Handling Scripts*** *used with this* ***Research Project***
+
+<br>
+
+## HGDP RE Analysis
+
+The `JSON` files containing the inferred repeat expansion <br>
+reads for the analyzed genomes are packaged into archives.
+
+<br>
+
+**Extract Them With:**
+
+```sh
+Tools/Extract.sh
+```
+
+<br>
+
+**Clean Them Up With:**
+
+```sh
+Tools/Clean.sh
+```

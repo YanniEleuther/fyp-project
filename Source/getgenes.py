@@ -2,7 +2,7 @@
 
 import json
 
-with open("variant_catalog.json", "r") as a_file:
+with open("Data/Variant.json", "r") as a_file:
     variant_catalog = json.loads(a_file.read())
 
 for i in variant_catalog:
